@@ -14,6 +14,7 @@ docker-commons
 docker-plugin
 docker-build-step
 docker-slaves
+gitlab
 gitlab-oauth
 gitlab-hook
 gitlab-logo
