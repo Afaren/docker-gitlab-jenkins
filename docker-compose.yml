@@ -6,6 +6,7 @@ services:
             context: .
             dockerfile: jenkins
         image: jenkins/jenkins:lts
+        user: root
         ports:
             - "8090:8080"
             - "50000:50000"
