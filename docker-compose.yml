@@ -2,10 +2,9 @@ version: '3.1'
 services:
     jenkins:
         container_name: jenkins
-        build: 
+        build:
             context: .
             dockerfile: jenkins
-        image: jenkins/jenkins:lts
         user: root
         ports:
             - "8090:8080"
