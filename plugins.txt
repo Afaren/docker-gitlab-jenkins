@@ -20,4 +20,7 @@ gitlab-hook
 generic-webhook-trigger
 gitlab-logo
 gitlab-plugin
+gitlab-branch-source
+multibranch-scan-webhook-trigger
+multibranch-build-strategy-extension
 sonar
