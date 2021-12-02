@@ -24,3 +24,4 @@ gitlab-branch-source
 multibranch-scan-webhook-trigger
 multibranch-build-strategy-extension
 sonar
+build-monitor-plugin
