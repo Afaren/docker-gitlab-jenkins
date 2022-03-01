@@ -3,6 +3,7 @@ git-client
 structs
 workflow-step-api
 workflow-scm-step
+workflow-aggregator
 scm-api
 icon-shim
 authentication-tokens
